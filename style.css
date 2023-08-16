@@ -1,0 +1,56 @@
+body {
+    background-color: #b9b2b2d2;
+    margin: 20%;
+}
+#title {
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+    font-size: 7vh;
+}
+#caption {
+    margin-left: 30px;
+    font-size: 14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    display: inline-block;
+    height: 90%;
+    width: 90%;
+    margin: 30px;
+    border-radius: 10px;
+}
+div#tribute-data {
+    background-color: #ace2cb;
+    border: 3px double black;
+    font-family: Georgia;
+    padding: 25px 25px;
+    margin: 11px;
+    margin-top: 50px;
+}
+.heading{
+    font-size: 35px;
+    text-align: center;
+    text-shadow: 5px 5px 10px white;
+}
+#personal-profile{
+    margin-left: 30px;
+}
+video{
+    height: 80%;
+    width: 80%;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+table{
+    border: 3px solid black;
+    margin-left: 120px;
+}
+th{
+    border: 3px solid black;
+    border-radius: 10px;
+}
+#footer{
+    margin-right: 40px;
+    text-align: center;
+}
+
